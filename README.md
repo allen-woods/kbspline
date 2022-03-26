@@ -17,7 +17,6 @@ A no-nonsense, zero-dependency implementation of the grand and mysterious Kochan
 
 ## TODO
 
-- Create branches
 - Write implementations
 
 ## License
