@@ -11,7 +11,7 @@ A no-nonsense, zero-dependency implementation of the grand and mysterious Kochan
 | Go         | [go](https://github.com/allen-woods/kbspline/tree/go)                   |
 | Python     | [python](https://github.com/allen-woods/kbspline/tree/python)           |
 | Rust       | [rust](https://github.com/allen-woods/kbspline/tree/rust)               |
-| Scala      | [scala](https://github.com/allen-woods/kbspline/tree/scala)             |
+| Scala      | _This branch._                                                          |
 | Swift      | [swift](https://github.com/allen-woods/kbspline/tree/swift)             |
 | TypeScript | [typescript](https://github.com/allen-woods/kbspline/tree/typescript)   |
 
