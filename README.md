@@ -12,7 +12,7 @@ A no-nonsense, zero-dependency implementation of the grand and mysterious Kochan
 | Python     | [python](https://github.com/allen-woods/kbspline/tree/python)           |
 | Rust       | [rust](https://github.com/allen-woods/kbspline/tree/rust)               |
 | Scala      | [scala](https://github.com/allen-woods/kbspline/tree/scala)             |
-| Swift      | [swift](https://github.com/allen-woods/kbspline/tree/swift)             |
+| Swift      | _This branch._                                                          |
 | TypeScript | [typescript](https://github.com/allen-woods/kbspline/tree/typescript)   |
 
 ## TODO
